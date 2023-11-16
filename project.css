@@ -1,0 +1,51 @@
+.head{
+    text-align: center;
+    align-items: center;
+    padding: 25px;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 47%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+.h{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image{
+
+    padding: 10px;
+    border-style: solid ;
+    border-color: white ;
+    border-radius: 5px;
+
+}
+.p1{
+    margin-left: 10px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    padding: 60px;
+    color: white;
+}
+.wh{
+    margin-left: 50px;
+}
+.abb{
+    text-decoration: none;
+}
+.whp{
+    margin-left: 40px;
+}
+.body{
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+main{
+    background-image: url('pexels-yugandhar-bonde-4673285.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.white{
+    background-color: rgba(0, 0, 0, 0.3);
+}
